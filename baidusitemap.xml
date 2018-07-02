@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://cocoblog.site/git%E5%90%88%E5%B9%B6%E5%88%86%E6%94%AF%E5%88%B0master.html</loc>
+    <lastmod>2018-06-29T01:31:41.000Z</lastmod>
+    <data>
+        <display>
+        <title>git合并分支到master</title>
+        <pubTime>2018-06-29T01:26:34.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://cocoblog.site/git-%E6%B7%BB%E5%8A%A0tag.html</loc>
+    <lastmod>2018-06-27T09:12:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>git 添加tag</title>
+        <pubTime>2018-06-27T06:47:00.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://cocoblog.site/app%E4%B8%8A%E7%BA%BF%E5%88%B0App-Store%E4%B9%8B%E5%90%8E%E7%9A%84%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80.html</loc>
+    <lastmod>2018-06-26T02:26:02.000Z</lastmod>
+    <data>
+        <display>
+        <title>app上线到App Store之后的链接地址</title>
+        <pubTime>2018-06-26T02:21:25.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://cocoblog.site/iOS%E5%BC%80%E5%8F%91%E4%B8%8A%E4%BC%A0App-Store%E6%97%B6%E5%80%99%E4%B8%80%E7%9B%B4%E5%8D%A1%E5%9C%A8-Authenticating-with-the-iTunes-Store-%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.html</loc>
+    <lastmod>2018-06-25T01:59:29.000Z</lastmod>
+    <data>
+        <display>
+        <title>iOS开发上传App Store时候一直卡在 Authenticating with the iTunes Store 的解决办法</title>
+        <pubTime>2018-06-25T01:46:16.000Z</pubTime>
+        
+        <tag>打包</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://cocoblog.site/git%E6%8B%89%E5%8F%96%E8%BF%9C%E7%A8%8B%E5%88%86%E6%94%AF%E5%B9%B6%E5%88%9B%E5%BB%BA%E6%9C%AC%E5%9C%B0%E5%88%86%E6%94%AF.html</loc>
+    <lastmod>2018-05-29T01:55:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>git拉取远程分支并创建本地分支</title>
+        <pubTime>2018-05-29T01:39:09.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://cocoblog.site/iOS%E9%9D%99%E6%80%81%E5%BA%93%E6%89%93%E5%8C%85.html</loc>
+    <lastmod>2018-05-29T01:35:25.000Z</lastmod>
+    <data>
+        <display>
+        <title>iOS静态库打包</title>
+        <pubTime>2018-05-28T09:08:57.000Z</pubTime>
+        
+        <tag>打包</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://cocoblog.site/cocopods%E5%8D%B8%E8%BD%BD%E3%80%81%E5%AE%89%E8%A3%85%E3%80%81%E9%87%8D%E8%A3%85.html</loc>
+    <lastmod>2018-04-17T05:37:01.000Z</lastmod>
+    <data>
+        <display>
+        <title>cocopods卸载、安装、重装</title>
+        <pubTime>2018-04-17T03:29:34.000Z</pubTime>
+        
+        <tag>cocopods</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://cocoblog.site/error-RPC-failed-curl-18-transfer-closed-with-outstanding-read-data-remaining.html</loc>
+    <lastmod>2018-04-03T07:18:22.000Z</lastmod>
+    <data>
+        <display>
+        <title>error: RPC failed; curl 18 transfer closed with outstanding read data remaining</title>
+        <pubTime>2018-04-03T06:41:04.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://cocoblog.site/iOS%E8%87%AA%E5%8A%A8%E6%9F%A5%E6%89%BE%E9%A1%B9%E7%9B%AE%E4%B8%AD%E4%B8%8D%E7%94%A8%E7%9A%84%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90.html</loc>
+    <lastmod>2018-04-03T06:59:04.000Z</lastmod>
+    <data>
+        <display>
+        <title>iOS自动查找项目中不用的图片资源 </title>
+        <pubTime>2017-10-12T03:15:01.000Z</pubTime>
+        
+        <tag>iOS优化</tag>
+         
+         
+           
+             
+              <breadCrumb title="iOS" url="http://cocoblog.site/categories/iOS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>http://cocoblog.site/tableView-setion-cell%E5%8A%A0%E8%BE%B9%E6%A1%86%E5%9C%86%E8%A7%92.html</loc>
+    <lastmod>2017-10-12T03:34:57.000Z</lastmod>
+    <data>
+        <display>
+        <title>tableView setion  cell加边框圆角</title>
+        <pubTime>2017-10-12T03:23:14.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>http://cocoblog.site/hello-world.html</loc>
+    <lastmod>2017-10-11T06:55:02.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-10-11T06:55:02.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
